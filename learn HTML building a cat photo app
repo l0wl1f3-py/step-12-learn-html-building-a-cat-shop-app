@@ -1,0 +1,20 @@
+Step 12
+You can turn any text into a link, such as the text inside of a p element.
+
+<p>I think <a href="https://www.freecodecamp.org">freeCodeCamp</a> is great.</p>
+In the text of your p element, turn the words cat photos into a link by adding opening and closing anchor (a) tags around these words. Then set the href attribute to https://freecatphotoapp.com
+
+code starts on line 9 & my question is what am i doing wrong i did exaclty what the steps say do, i dont see any other way i could format it 
+
+<html>
+  <body>
+    <main>
+      <h1>CatPhotoApp</h1>
+      <h2>Cat Photos</h2>
+      <!-- TODO: Add link to cat photos -->
+  <p><a href="https://freecatphotoapp.com">cat photos</a> See more cat photos in our gallery. </p>
+      <a href="https://freecatphotoapp.com">link to cat pictures</a>
+      <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
+    </main>
+  </body>
+</html>
